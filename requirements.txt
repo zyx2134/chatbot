@@ -1,0 +1,2 @@
+torch>=2.0.0
+tkinterdnd2  # 可选，用于拖拽功能
